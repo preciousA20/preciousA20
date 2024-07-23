@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @preciousA20
 - 👀 I’m interested in BLOCKCHAIN DEVELOPMENT and GOOD SECURITY 
 - 🌱 I’m currently learning blockchain development and smart contract hacking and security,
-- for blockchain development and testing i use solidity, javascript, typescript, ethersjs, metamask, hardhat and foundry
+- for blockchain development and testing i use solidity, javascript, typescript, ethersjs, metamask, hardhat, foundry, reactjs and nextjs
 
 - for smart contract security i use slither, echidna and mostly mannual analyzing
 - 💞️ I’m looking to collaborate with experts in blockchain security and developers
