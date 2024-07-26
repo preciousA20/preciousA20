@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @preciousA20
-- 👀 I’m interested in BLOCKCHAIN DEVELOPMENT and GOOD SECURITY 
+- 👀 I’m interested in BLOCKCHAIN DEVELOPMENT and SMART CONTRACT SECURITY,
+- i solve all openzeppelin ethanault challenges, DanmVulnerable Defi and CryptoZombie games. 
 - 🌱 I’m currently learning blockchain development and smart contract hacking and security,
-- for blockchain development and testing i use solidity, javascript, typescript, ethersjs, metamask, hardhat, foundry, reactjs and nextjs
-
+- for blockchain development and testing i use solidity, nodejs and express, javascript, typescript, ethersjs, metamask, hardhat, foundry, reactjs and nextjs
+sanity and mongoDB for backend
 - for smart contract security i use slither, echidna and mostly mannual analyzing
 - 💞️ I’m looking to collaborate with experts in blockchain security and developers
 - 📫 How to reach me email_address: piusushie3@gmail.com, preciousprogrammer2@gmail.com
